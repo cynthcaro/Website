@@ -1,0 +1,42 @@
+
+.logo
+{
+	background-color: pink;
+}
+
+.main-content p 
+{
+height: 700px;
+width: 100%;
+background-color: pink;
+font-size: 20px;
+}
+.nav-item a
+{
+font-size: 18px;
+}
+.main-content-about
+{
+	font-size: 20px;
+	background-color: pink;
+	height: 700px;
+width: 100%;
+background-image: ();
+}
+.main-content
+{
+	height: 700px;
+width: 100%;
+background-color: pink;
+font-size: 20px;
+}
+.bottom
+{	
+	background-color: white;
+	height: 271px;
+	text-align: center;
+	background-color: green;
+}
+
+
+
